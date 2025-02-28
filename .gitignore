@@ -1,0 +1,5 @@
+*.pyc
+.python-version
+*.egg-info
+.vscode
+.DS_Store
