@@ -1,0 +1,9 @@
+{
+  "title": "SuccINVERSEBird",
+  "description": "Flappy Bird clone",
+  "assets": [
+    "assets/icon.png",
+    "assets/audio/bird.mp3",
+    "assets/sprites/*.png"
+  ]
+}
